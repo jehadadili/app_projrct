@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"app-bazaro-cs","appId":"1:625730468461:android:e50da355220a9de6dd9d64","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"app-bazaro-cs","configurations":{"android":"1:625730468461:android:e50da355220a9de6dd9d64","ios":"1:625730468461:ios:f25f774ba6444bd9dd9d64"}}}}}}
